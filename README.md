@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hasnain
 - 👀 I’m interested in Programming and games
-- 🌱 I’m currently learning Javascript and React Js
 - 📫 Reach me at my email hasajid882@gmail.com
 
 <!---
