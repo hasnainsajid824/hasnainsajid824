@@ -1,9 +1,5 @@
 <h1 >Hi 👋, I'm Muhammad Hasnain Sajid</h1>
-<h3 >A passionate .Net Developer and I am passionate about leveraging technology to create impactful solutions for real-world problems.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussy24&label=Profile%20views&color=0e75b6&style=flat" alt="hussy24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussy24" alt="hussy24" /></a> </p>
+<h4 >A passionate .Net Developer and I am passionate about leveraging technology to create impactful solutions for real-world problems.</h3>
 
 - 📫 How to reach me **hasnainsajid824@gmail.com**
 
