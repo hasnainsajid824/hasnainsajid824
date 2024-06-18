@@ -19,5 +19,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussy24&layout=compact&theme=radical)
 
 ## 🖥️ GitHub Contributions
-![GitHub Contributions](https://github.com/hussy24/github-contributions-chart)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ABRJrocks/ABRJrocks/output/snake.svg" alt="Snake animation" />
 
