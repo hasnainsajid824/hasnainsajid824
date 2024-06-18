@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasnain Sajid</h1>
-<h3 align="center">A passionate .Net Developer and I am passionate about leveraging technology to create impactful solutions for real-world problems.</h3>
+<h1 >Hi 👋, I'm Muhammad Hasnain Sajid</h1>
+<h3 >A passionate .Net Developer and I am passionate about leveraging technology to create impactful solutions for real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussy24&label=Profile%20views&color=0e75b6&style=flat" alt="hussy24" /> </p>
 
