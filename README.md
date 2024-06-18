@@ -1,8 +1,30 @@
-- 👋 Hi, I’m Hasnain
-- 👀 I’m interested in Programming and games
-- 📫 Reach me at my email hasnainsajid824@gmail.com
+# Hi there, I'm John Doe! 👋
 
-<!---
-Hussy24/Hussy24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=blue)
+
+## About Me
+- 🌱 I’m currently learning **Web Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: [john.doe@example.com](mailto:john.doe@example.com)
+
+## My GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## GitHub Contributions
+![GitHub Contributions](https://github.com/johndoe/github-contributions-chart)
+
+![Cool Animation](https://example.com/path/to/your/animated.svg)
+
+<details>
+  <summary>Click to expand!</summary>
+
+  ## Here is some additional content!
+  - Detailed Projects
+  - Achievements
+  - Upcoming Events
+
+</details>
