@@ -8,20 +8,14 @@
 - 📫 How to reach me: [hasnainsajid824@gmail.com](mailto:hasnainsajid824@gmail.com)
 
 ## My GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussy24&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hussy24&show_icons=true&theme=radical)
 
+
+![GitHub Contributions](https://github.com/hussy24/github-contributions-chart)
 
 ## GitHub Contributions
 ![GitHub Contributions](https://github.com/hussy24/github-contributions-chart)
 
 
 
-<details>
-  <summary>Click to expand!</summary>
 
-  ## Here is some additional content!
-  - Detailed Projects
-  - Achievements
-  - Upcoming Events
-
-</details>
