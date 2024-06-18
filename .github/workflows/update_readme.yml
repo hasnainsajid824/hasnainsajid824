@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Update README
+      run: |
+        python update_readme.py
+    - name: Commit and push
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add README.md
+        git commit -m "Update README"
+        git push
